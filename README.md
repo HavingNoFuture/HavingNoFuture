@@ -8,4 +8,4 @@ Django / DRF / Python / JS / HTML / CSS
 
 **Contacts:**
 Email: alex.erm4@gmail.com
-Telegram: @havingnofuture
+Telegram: https://t.me/havingnofuture
